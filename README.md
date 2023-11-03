@@ -1,4 +1,4 @@
-<h1 align="center">HELLO! 👋, I'm KK-9684, a Senior full-stack developer</h1>
+<h1 align="center">Senior full-stack developer</h1>
 <h3 align="center">Nice to meet you.</h3>
 <p>
     
