@@ -12,7 +12,7 @@
     ★ MongoDB, MySQL, FireBase, PostgreSQL
     
     Android & iOS:
-    ★ Flutter, Flutterflow, Dart, Kotlin, Firebase
+    ★ Flutter, Flutterflow, Dart, Kotlin, Firebase,Blockchain
     ★ PlayStore, AppStore
     
     Project version control
